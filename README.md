@@ -6,7 +6,6 @@ Send a Whats-App message multiple times to friends
 	python3.6
 	selenium
 
-
 ### send multiple message to friend
 	
 	python3 whatsapp.py 
